@@ -64,7 +64,9 @@ To use the Teach-Repeat-Replan system in the real world, you can check this bran
 ## 1. Prerequisites
 **1.1**   **Ubuntu** and **ROS**
 
-Our software is developed in Ubuntu 16.04. ROS Kinetic. ROS can be installed here: [ROS Installation](http://wiki.ros.org/ROS/Installation)
+Our software is developed in Ubuntu 16.04. ROS Kinetic. ROS can be installed here: [ROS Installation](http://wiki.ros.org/ROS/Installation）
+
+**also need doxygen pdflatex gfortran**
 
 **1.2**   **convex solvers**
 
